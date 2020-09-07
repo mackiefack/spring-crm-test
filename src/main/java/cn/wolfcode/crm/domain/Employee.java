@@ -5,6 +5,9 @@ import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 员工表
+ */
 @Data
 public class Employee {
     private Long id;
